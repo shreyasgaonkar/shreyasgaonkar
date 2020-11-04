@@ -7,7 +7,7 @@
   - AWS Lambda
 
 - 📫 How to reach me:  
-Email: shreyas.gaonkar@ayhoo.com  
+Email: shreyas.gaonkar@yahoo.com  
 Instagram: [shreyasgaonkar](https://www.instagram.com/shreyasgaonkar/)  
 YouTube: [shreyasgaonkar](https://www.youtube.com/shreyasgaonkar)  
 LinkedIn: [shreyasgaonkar](https://www.linkedin.com/in/shreyasgaonkar/)
