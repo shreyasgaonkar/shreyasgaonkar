@@ -6,6 +6,9 @@
 - 💬 Ask me about 
   - AWS Lambda
 
+![Metrics](https://metrics.lecoq.io/shreyasgaonkar)
+
+
 - 📫 How to reach me:  
 Email: shreyas.gaonkar@yahoo.com  
 Instagram: [shreyasgaonkar](https://www.instagram.com/shreyasgaonkar/)  
